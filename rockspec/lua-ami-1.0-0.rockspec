@@ -2,7 +2,7 @@ package = "lua-ami"
 version = "1.0-0"
 source = {
    url = "https://github.com/WhiteyDude/lua-ami/archive/v1.0-1.zip",
-   tag = "master",
+   dir = "lua-ami-1.0-1"
 }
 description = {
    summary = "LUA Asterisk AMI interface",
