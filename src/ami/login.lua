@@ -6,7 +6,7 @@
 --------------------------------------------------------------------------------
 
 local md5 = require "md5"
-local check_reply = require "utils".check_reply
+local check_reply = require "ami.utils".check_reply
 
 local assert, type = assert, type
 
