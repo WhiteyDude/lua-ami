@@ -1,7 +1,9 @@
-Lua-AMI: Lua library to talk with Asterisk by AMI protocol
-==========================================================
+Fork of https://github.com/pbxware/lua-ami
 
-Copyright (C) 2012 Lua-AMI authors
+## Intention
+To be able to install with luarocks and access AMI via the pbx_lua module in Asterisk
 
-See file 'COPYRIGHT' for the license.
-See file 'doc/index.html' for documentation
+## Install instructions
+1. Grab the latest rockspec
+2. luarocks install lua-ami-X.X-X.rockspec
+3. Use example from examples folder to call
